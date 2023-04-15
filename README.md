@@ -14,4 +14,6 @@ Language: Python.
 ### If you are not the root user.
 Use ** sudo ** before ** apt-get  **
 
-### Refer to python-packages.apps file for further information 
+### Refer to python-packages.apps file for further information. 
+
+### Refer to KDE.Installs. file for further information.
