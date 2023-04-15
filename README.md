@@ -1,18 +1,18 @@
-# apt-to-python.Install.Scripts
+**apt-to-python.Install.Scripts
 A list of scripts using APT on Linux Debian to install python apps. 
 
 **easily install many python applications and packages.**
 
-# Operationg-System: Debian Bullseye.
-# Usage: apt.
-# Language: Python.
+*Operationg-System: Debian Bullseye.
+*Usage: apt.
+*Language: Python.
 
-### In your terminal enter the commands below to install python packages and applications using apt.
+**In your terminal enter the commands below to install python packages and applications using apt.
 
-## root user.
+**root user
  **apt-get**
  
-## none-root user.
+ **none-root user.
  **sudo apt-get**
  
 
