@@ -1,13 +1,21 @@
 ### List of APT-GET scripts to easly install many python applications. 
 
-System: Debian Bullseye
-Usage: APT
-Language: Python
+## System: Debian Bullseye.
+## Usage: apt-get.
+## Language: Python.
 
 ### In your terminal enter the commands below to install python packages and applications using apt.
-### If you are not the root user.
-Use ** sudo ** before ** apt-get  **
 
+
+### If you are not the root user.
+
+Use:
+** sudo ** 
+before 
+** apt-get **
+
+
+# Usage:
 apt-get install python3-pytools 
 apt-get install python3-requests-cache 
 apt-get install python3-requests-file 
@@ -102,3 +110,149 @@ apt-get install python3-spectra
 apt-get install python3-sphere 
 apt-get install python3-spf-engine 
 apt-get install python3-sqlobject
+apt-get install python3-spoon
+apt-get install python3-spur 
+apt-get install python3-spyder 
+apt-get install python3-spyder-kernels 
+apt-get install python3-spyder-line-profiler 
+apt-get install python3-spyder-memory-profiler
+apt-get install python3-spyder-unittest 
+apt-get install python3-spyne 
+apt-get install python3-sql 
+apt-get install python3-sqlalchemy 
+apt-get install python3-sqlalchemy-ext 
+apt-get install python3-sqlalchemy-i18n 
+apt-get install python3-sqlalchemy-utils 
+apt-get install python3-sqlparse 
+apt-get install python3-sqlsoup 
+apt-get install python3-sqt 
+apt-get install python3-squaremap 
+apt-get install python3-srp 
+apt-get install python3-srs 
+apt-get install python3-ssdeep 
+apt-get install python3-sshpubkeys 
+apt-get install python3-sshtunnel 
+apt-get install python3-sss 
+apt-get install python3-send2trash 
+apt-get install python3-sendfile 
+apt-get install python3-senlin
+apt-get install python3-senlin-dashboard
+apt-get install python3-senlinclient 
+apt-get install python3-sensor-msgs 
+apt-get install python3-sentencepiece 
+apt-get install python3-sentinels 
+apt-get install python3-sentinelsat 
+apt-get install python3-sentry-sdk
+apt-get install python3-sepolgen 
+apt-get install python3-sepolicy 
+apt-get install python3-seqdiag 
+apt-get install python3-serial 
+apt-get install python3-serial-asyncio
+apt-get install python3-serpent 
+apt-get install python3-service-identity 
+apt-get install python3-setools
+apt-get install python3-setoolsgui 
+apt-get install python3-setoptconf 
+apt-get install python3-setproctitle
+apt-get install python3-setuptools 
+apt-get install python3-setuptools-git
+apt-get install python3-setuptools-scm
+apt-get install python3-setuptools-scm-git-archive 
+apt-get install python3-sexpdata 
+apt-get install python3-sfepy 
+apt-get install python3-sfml 
+apt-get install python3-sgmllib3k 
+apt-get install python3-sgp4 
+apt-get install python3-sh 
+apt-get install python3-sha3 
+apt-get install python3-shade 
+apt-get install python3-shape-msgs 
+apt-get install python3-shapely
+apt-get install python3-shasta
+apt-get install python3-shellescape
+apt-get install python3-shellingham
+apt-get install python3-shodan
+apt-get install python3-shortuuid 
+apt-get install python3-siconos
+apt-get install python3-sievelib
+apt-get install python3-sigmavirus24-urltemplate
+apt-get install python3-signedjson
+apt-get install python3-silo 
+apt-get install python3-silx
+apt-get install python3-simgrid
+apt-get install python3-simple-cdd
+apt-get install python3-simplebayes 
+apt-get install python3-simpleeval 
+apt-get install python3-simplegeneric 
+apt-get install python3-simplejson
+apt-get install python3-simplenote
+apt-get install python3-simpletal 
+apt-get install python3-simpy3 
+apt-get install python3-singledispatch
+apt-get install python3-sip 
+apt-get install python3-sip-dev
+apt-get install python3-sipbuild 
+apt-get install python3-siphashc 
+apt-get install python3-sireader
+apt-get install python3-siridb-connector
+apt-get install python3-six
+apt-get install python3-skbio
+apt-get install python3-skbuild 
+apt-get install python3-skimage 
+apt-get install python3-skimage-lib
+apt-get install python3-sklearn 
+apt-get install python3-sklearn-lib 
+apt-get install python3-sklearn-pandas
+apt-get install python3-skytools 
+apt-get install python3-sleekxmpp 
+apt-get install python3-slepc4py 
+apt-get install python3-slepc4py-64-complex
+apt-get install python3-slepc4py-64-complex3.14
+apt-get install python3-slepc4py-64-real 
+apt-get install python3-slepc4py-64-real3.14 
+apt-get install python3-slepc4py-complex
+apt-get install python3-slepc4py-complex3.14 
+apt-get install python3-slepc4py-real 
+apt-get install python3-slepc4py-real3.14 
+apt-get install python3-slimit
+apt-get install python3-slimmer 
+apt-get install python3-slip 
+apt-get install python3-slip-dbus 
+apt-get install python3-slixmpp 
+apt-get install python3-slixmpp-lib 
+apt-get install python3-slugify 
+apt-get install python3-smart-open 
+apt-get install python3-smartleia 
+apt-get install python3-smartypants 
+apt-get install python3-smbc 
+apt-get install python3-smbus 
+apt-get install python3-smclib 
+apt-get install python3-smmap 
+apt-get install python3-smoke-zephyr 
+apt-get install python3-smstrade 
+apt-get install python3-snappy 
+apt-get install python3-sniffio
+apt-get install python3-snimpy
+apt-get install python3-snowballstemmer
+apt-get install python3-snuggs
+apt-get install python3-soapysdr
+apt-get install python3-socketio 
+apt-get install python3-socketio-client
+apt-get install python3-socketpool 
+apt-get install python3-softlayer 
+apt-get install python3-solv 
+apt-get install python3-sop 
+apt-get install python3-sorl-thumbnail 
+apt-get install python3-sorted-nearest 
+apt-get install python3-sortedcollections
+apt-get install python3-sortedcontainers
+apt-get install python3-sortedm2m
+apt-get install python3-soupsieve
+apt-get install python3-spake2 
+apt-get install python3-sparkpost
+apt-get install python3-sparse
+apt-get install python3-speaklater
+apt-get install python3-spectral-cube
+apt-get install python3-specutils
+apt-get install python3-spf 
+apt-get install python3-spglib
