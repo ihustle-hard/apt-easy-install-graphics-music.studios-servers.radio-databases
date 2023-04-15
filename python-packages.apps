@@ -1,0 +1,104 @@
+### List of APT-GET scripts to easly install many python applications. 
+
+System: Debian Bullseye
+Usage: APT
+Language: Python
+
+### In your terminal enter the commands below to install python packages and applications using apt.
+### If you are not the root user.
+Use ** sudo ** before ** apt-get  **
+
+apt-get install python3-pytools 
+apt-get install python3-requests-cache 
+apt-get install python3-requests-file 
+apt-get install python3-requests-futures 
+apt-get install python3-requests-kerberos 
+apt-get install python3-requests-mock 
+apt-get install python3-requests-ntlm 
+apt-get install python3-requests-oauthlib 
+apt-get install python3-requests-toolbelt 
+apt-get install python3-requests-unixsocket 
+apt-get install python3-requestsexceptions 
+apt-get install python3-requirement-parser 
+apt-get install python3-requirements-detector 
+apt-get install python3-resolvelib 
+apt-get install python3-resource-retriever
+apt-get install python3-responses 
+apt-get install python3-restless 
+apt-get install python3-restrictedpython 
+apt-get install python3-restructuredtext-lint 
+apt-get install python3-retrying 
+apt-get install python3-rfc3161ng 
+apt-get install python3-rfc3339 
+apt-get install python3-rfc3986 
+apt-get install python3-rfc6555 
+apt-get install python3-rgw 
+apt-get install python3-rich 
+apt-get install python3-ripe-atlas-cousteau 
+apt-get install python3-ripe-atlas-sagan 
+apt-get install python3-rjsmin 
+apt-get install python3-rlp 
+apt-get install python3-rna 
+apt-get install python3-rnc2rng 
+apt-get install python3-robot-detection 
+apt-get install python3-rocksdb 
+apt-get install python3-roman
+apt-get install python3-rosbag 
+apt-get install python3-hiredis 
+apt-get install python3-scrapy 
+apt-get install python3-samba
+apt-get install python3-sane
+apt-get install python3-sanlock
+apt-get install python3-sardana
+apt-get install python3-sasmodels
+apt-get install python3-sasview 
+apt-get install python3-satpy
+apt-get install python3-savitar
+apt-get install python3-sbml5
+apt-get install python3-scalene
+apt-get install python3-scapy
+apt-get install python3-scciclient
+apt-get install python3-schedule
+apt-get install python3-schedutils
+apt-get install python3-schema
+apt-get install python3-schema-salad
+apt-get install python3-schroot
+apt-get install python3-scikit-fmm 
+apt-get install python3-scikit-rf
+apt-get install python3-scipy 
+apt-get install python3-scitrack
+apt-get install python3-scoop
+apt-get install python3-scour
+apt-get install python3-scp 
+apt-get install python3-scrapy
+apt-get install python3-scrapy-djangoitem
+apt-get install python3-screed
+apt-get install python3-screeninfo 
+apt-get install python3-scripttest
+apt-get install python3-scruffy
+apt-get install python3-scrypt
+apt-get install python3-sdl2
+apt-get install python3-sdnotify 
+apt-get install python3-seaborn
+apt-get install python3-seafile
+apt-get install python3-seamicroclient 
+apt-get install python3-searchlightclient
+apt-get install python3-seccomp
+apt-get install python3-secretstorage 
+apt-get install python3-segno
+apt-get install python3-seirsplus
+apt-get install python3-selenium 
+apt-get install python3-semanage
+apt-get install python3-semantic-version
+apt-get install python3-semver
+apt-get install python3-socks 
+apt-get install python3-socksipychain 
+apt-get install python3-social-auth-core 
+apt-get install python3-social-django 
+apt-get install python3-software-properties 
+apt-get install python3-sparqlwrapper 
+apt-get install python3-speechd 
+apt-get install python3-spectra 
+apt-get install python3-sphere 
+apt-get install python3-spf-engine 
+apt-get install python3-sqlobject
