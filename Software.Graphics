@@ -124,7 +124,6 @@ apt-get install imagemagick-6.q16
 apt-get install imagemagick-6-common 
 apt-get install imagemagick-6.q16 
 apt-get install imagemagick-6.q16hdri 
-apt-get install imagemagick-common 
 apt-get install imagemagick-common
 apt-get install imv 
 apt-get install ink-generator
