@@ -1,4 +1,4 @@
-### List of APT-GET scripts to easly install many python applications. 
+### List of APT-GET scripts to easly install many python applications and packages. 
 
 ## System: Debian Bullseye.
 ## Usage: apt-get.
@@ -7,15 +7,17 @@
 ### In your terminal enter the commands below to install python packages and applications using apt.
 
 
-### If you are not the root user.
+### root_user.
+     usage:
+      sudo apt-get
+    
+    
+### none_root.
+     usage:
+      apt-get 
 
-Use:
-** sudo ** 
-before 
-** apt-get **
 
-
-# Usage:
+usage:
 apt-get install python3-pytools 
 apt-get install python3-requests-cache 
 apt-get install python3-requests-file 
@@ -109,30 +111,6 @@ apt-get install python3-speechd
 apt-get install python3-spectra 
 apt-get install python3-sphere 
 apt-get install python3-spf-engine 
-apt-get install python3-sqlobject
-apt-get install python3-spoon
-apt-get install python3-spur 
-apt-get install python3-spyder 
-apt-get install python3-spyder-kernels 
-apt-get install python3-spyder-line-profiler 
-apt-get install python3-spyder-memory-profiler
-apt-get install python3-spyder-unittest 
-apt-get install python3-spyne 
-apt-get install python3-sql 
-apt-get install python3-sqlalchemy 
-apt-get install python3-sqlalchemy-ext 
-apt-get install python3-sqlalchemy-i18n 
-apt-get install python3-sqlalchemy-utils 
-apt-get install python3-sqlparse 
-apt-get install python3-sqlsoup 
-apt-get install python3-sqt 
-apt-get install python3-squaremap 
-apt-get install python3-srp 
-apt-get install python3-srs 
-apt-get install python3-ssdeep 
-apt-get install python3-sshpubkeys 
-apt-get install python3-sshtunnel 
-apt-get install python3-sss 
 apt-get install python3-send2trash 
 apt-get install python3-sendfile 
 apt-get install python3-senlin
@@ -256,3 +234,62 @@ apt-get install python3-spectral-cube
 apt-get install python3-specutils
 apt-get install python3-spf 
 apt-get install python3-spglib
+apt-get install python3-spoon 
+apt-get install python3-spur 
+apt-get install python3-spyder 
+apt-get install python3-spyder-kernels 
+apt-get install python3-spyder-line-profiler 
+apt-get install python3-spyder-memory-profiler
+apt-get install python3-spyder-unittest 
+apt-get install python3-spyne 
+apt-get install python3-sql 
+apt-get install python3-sqlalchemy 
+apt-get install python3-sqlalchemy-ext 
+apt-get install python3-sqlalchemy-i18n 
+apt-get install python3-sqlalchemy-utils 
+apt-get install python3-sqlobject 
+apt-get install python3-sqlparse 
+apt-get install python3-sqlsoup 
+apt-get install python3-sqt 
+apt-get install python3-squaremap 
+apt-get install python3-srp 
+apt-get install python3-srs 
+apt-get install python3-ssdeep 
+apt-get install python3-sshpubkeys 
+apt-get install python3-sss
+apt-get install python3-sshtunnel 
+apt-get install python3-stardicter
+apt-get install python3-static3 
+apt-get install python3-staticconf 
+apt-get install python3-statsd 
+apt-get install python3-statsmodels odels
+apt-get install python3-statsmodels-lib
+apt-get install python3-std-msgs 
+apt-get install python3-std-srvs ings
+apt-get install python3-stdeb 
+apt-get install python3-stdnum 
+apt-get install python3-stem 
+apt-get install python3-stemmer 
+apt-get install python3-stereo-image-procRobot
+apt-get install python3-stereo_image_proc 
+apt-get install python3-stereo-msgs 
+apt-get install python3-stestr
+apt-get install python3-stetl 
+apt-get install python3-stevedore
+apt-get install python3-stfio 
+apt-get install python3-stl 
+apt-get install python3-stomp 
+apt-get install python3-stomper
+apt-get install python3-stopit
+apt-get install python3-storm
+apt-get install python3-straight.plugin 
+apt-get install python3-streamlink 
+apt-get install python3-streamparser 
+apt-get install python3-streamz 
+apt-get install python3-strictyaml 
+apt-get install python3-stringtemplate3 
+apt-get install python3-structlog 
+apt-get install python3-stsci.distutils
+apt-get install python3-systemd 
+apt-get install python3-twitter 
+apt-get install python3-torch
