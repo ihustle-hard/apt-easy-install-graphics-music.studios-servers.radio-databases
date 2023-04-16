@@ -29,5 +29,5 @@ Python
 #python packages and apps
 ### Refer to KDE.Installs. file further information.
 #KDE apps and visuals
-### Refer to Software.Upgrade-GRAPHICS for further information.
+### Refer to Software.GRAPHICS for further information.
 #Linux graphics and apps
