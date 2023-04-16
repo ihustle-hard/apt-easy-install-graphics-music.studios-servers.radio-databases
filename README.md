@@ -1,7 +1,9 @@
-**A list of scripts using apt** on **Linux Debian**
-      **install python apps
-        **install graphic apps
-            All using apt
+**A list of scripts using apt** 
+
+on **Linux Debian**
+     get **install python apps
+          **install graphic apps
+                All using apt
 
 **Easily install many KDE, GNU, and Python applications and packages.**
 
