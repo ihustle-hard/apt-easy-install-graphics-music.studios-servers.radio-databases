@@ -1,33 +1,36 @@
-**A list of scripts using APT on Linux Debian to install python apps.** 
+**A list of scripts using apt** on **Linux Debian**
+      **install python apps
+        **install graphic apps
+            All using apt
 
-**easily install many python applications and packages.**
+**Easily install many KDE, GNU, and Python applications and packages.**
 
-*Operationg-System: 
-Linux Debian Bullseye.
-*Usage:
-apt
-*Language: 
-Python
-
+Operationg-System: 
+   Linux Debian Bullseye.
+Usage:
+   apt
+Language: 
+   Python
 
 **In your terminal enter the commands below to install python packages and applications using apt.
+ Prerequistes
+   use:
+      apt-get update
 
-
- **root user
-   
+**root_user**
   usage:
    apt-get
  
- 
- **none-root user
-   
+**none-root_user**
    usage:
     sudo apt-get
  
 
-### Refer to python-packages.apps for further information. 
-#python packages and apps
-### Refer to KDE.Installs. file further information.
-#KDE apps and visuals
-### Refer to Software.GRAPHICS for further information.
-#Linux graphics and apps
+### Refer to python-packages.apps for further installtion information. 
+Python packages and apps
+### Refer to KDE.Installs. file further installtion information.
+KDE apps and visuals
+### Refer to Software.GRAPHICS for further installtion information.
+Linux graphics and apps
+### Refer to sphinx-python for further information.
+Shpinix-python packages and apps
