@@ -1,5 +1,7 @@
-### sphinx-python
-    **easy install using apt for python-sphinx pacakges**
+*** Subsection ***
+ ## Software Packages in "bullseye", ### sphinx-python*
+    **easy install using apt**  
+    ** python-sphinx pacakges**
 
   #OS:
     Linux Debain
@@ -19,8 +21,8 @@
        sudo apt-get update
       
       
-## **INSTALATION** 
-     use:
+**INSTALATION** 
+     use:*
         apt-get install python3-sphinx
         apt-get install python3-sphinx-a4doc 
         apt-get install python3-sphinx-argparse 
