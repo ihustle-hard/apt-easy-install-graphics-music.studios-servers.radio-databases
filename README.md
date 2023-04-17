@@ -1,7 +1,6 @@
 **A list of scripts using apt** 
 
  **Linux Debian**
-     *get
      
           **install python 'pkgs/apps'**
                ***install 'graphics'***
