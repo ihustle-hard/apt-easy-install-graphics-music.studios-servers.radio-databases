@@ -7,7 +7,7 @@
                install graphic apps
                    Install electronics packages [vr,2d,3d]
                 
-                *All using apt*
+ **All using apt**
 
 **Easily install many KDE, GNU, and Python applications and packages.**
 
@@ -21,16 +21,20 @@ Language:
 
 **In your terminal enter the commands below to install python packages and applications using apt.
  Prerequistes
-   use:
-      apt-get update
+   
+   **use:
+      apt-get update*
 
 **root_user**
-  usage:
-      apt-get
+ 
+ **usage:
+      apt-get*
+ 
  
 **none-root_user**
-   usage:
-      sudo apt-get
+   
+   **usage:
+      sudo apt-get*
  
 
 ### Refer to python-packages.apps for further installtion information. 
