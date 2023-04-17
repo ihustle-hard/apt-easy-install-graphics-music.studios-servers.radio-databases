@@ -1,16 +1,15 @@
-**A list of scripts using apt** 
+**List of easy install commands using apt to install divese appications and packages** 
 
  **Linux Debian**
-     
-     
-          *install python 'pkgs/apps'*
+        
+        *install python 'pkgs/apps'*
            **Install 'graphics
             ***Install 'electronics' [vr,2d,3d]
              ****Install TV and Radio, add-ons
               *****Install 'KDE, GNU, GTK, Apps'
       
       
- *All using apt*
+ *Simple and Easy apt*
  
  
 ***Cameras,Sensors,Routers,Radios,TV,Design-Programs,CAD,Servers,Databases,Create,Develop,VR,Graphics,
@@ -21,21 +20,24 @@ Operationg-System:
    Linux Debian Bullseye
    
 Language: 
-   Python
+   Python, C++, Bash
 
+Type:
+   Graphics, Electronics, Applications, Radios, Packages,
 
-**In your terminal enter the commands below for installation purpses using 'apt.'
  
  
    **Prerequistes**
-
+   
+  'In your terminal enter the commands below for installation purposes'
+   
 "update all packages prior to installation"
    
       apt-get update
 
    
    **Installation**
-"USER"
+
 
      'root_user'
           apt-get install
