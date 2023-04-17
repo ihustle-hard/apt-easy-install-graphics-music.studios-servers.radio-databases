@@ -1,4 +1,4 @@
-**List of easy install commands using apt to install divese appications and packages** 
+**List of easy install commands using apt to install diverse appications and packages** 
 
  **Linux Debian**
         
