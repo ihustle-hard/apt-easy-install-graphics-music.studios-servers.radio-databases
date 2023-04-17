@@ -31,7 +31,6 @@ Language:
 
 "update all packages prior to installation"
    
-   'use'
       apt-get update
 
    
