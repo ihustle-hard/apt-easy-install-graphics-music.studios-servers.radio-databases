@@ -1,0 +1,43 @@
+ *** Subsection ***
+
+## Installation Needs in "Bullseye", 'apt-y'*
+    **easy install using apt-y**  
+      **apt-y installations**
+
+  #OS:
+    Linux Debain
+
+**none-root_user**
+    use:
+      sudo 'apt install -y'
+   
+**root_user**
+    use:
+      'apt install -y'
+    
+**PRE'Q's**
+      use:
+       'sudo apt update -y' 
+      
+      
+**INSTALATION** 
+
+sudo apt update -y
+ apt install python -y
+ apt install python2 -y
+ apt install ruby -y 
+ apt install git -y
+ apt install unzip -y
+ apt install tor -y
+ apt install wget -y
+ apt install nano -y
+ apt install curl -y
+ apt install tar -y
+ apt install zip -y
+ apt install bash -y
+ apt install clang -y
+ apt install jq -y
+ apt install macchanger -y
+ apt install php -y 
+ apt install perl -y
+ apt install nmap -y 
