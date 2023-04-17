@@ -4,15 +4,16 @@
      
      
           *install python 'pkgs/apps'*
-            **install 'graphics
-              ***Install 'electronics packages' [vr,2d,3d]
-                ****Install 'KDE, GNU, GTK, Apps'
+           **Install 'graphics
+            ***Install 'electronics' [vr,2d,3d]
+             ****Install TV and Radio, add-ons
+              *****Install 'KDE, GNU, GTK, Apps'
       
       
- **All using apt**
+ *All using apt*
  
  
-***Cameras,Sensors,Routers,Design-Programs,CAD,Servers,Databases,Create,Develop,VR,Graphics,
+***Cameras,Sensors,Routers,Radios,TV,Design-Programs,CAD,Servers,Databases,Create,Develop,VR,Graphics,
      'you imagine it'***
 
 
@@ -26,28 +27,35 @@ Language:
 **In your terminal enter the commands below for installation purpses using 'apt.'
  
  
-**Prerequistes**
-    use:
+   **Prerequistes**
+
+"update all packages prior to installation"
+   
+   'use'
       apt-get update
 
-**root_user**
-    use:
-      apt-get
+   
+   **Installation**
+"USER"
+
+     'root_user'
+          apt-get install
  
-**none-root_user**
-    use:
-      sudo apt-get
+     'none_root_user'
+          sudo apt-get install
  
 
 ### Refer to 'python-packages.apps' for further installtion information. 
-Subsection Python packages and apps
+Subsection for Python in "bullseye", packages and apps.
 ### Refer to 'KDE.Installs' for further installtion information.
-Subsection KDE apps and visuals
+Subsection for KDE in "bullseye", apps and visuals.
 ### Refer to 'Software.Graphics' for further installtion information.
-Subsection Software Packages in "bullseye", Linux graphics and apps
+Subsection for Graphics in "bullseye", graphics, drivers, software and apps.
 ### Refer to 'sphinx-python' for further information.
-Subsection Shpinix-python packages and apps
+Subsection for shpinix-python in "bullseye", packages and apps.
 ### Refer to 'Software.Electronics' for further installtion information.
-Subsection Software Packages in "bullseye", Subsection electronics
+Subsection for Electronics in "bullseye", electronics apps, visuals, schemes.
 ### Refer to 'Got.Git-Must.Haves' for further installtion information.
-Subsection Must have basic installs for your linux terminal.
+Subsection in "bullseye", basic installs for your linux terminal.
+### Refer to 'Defined.Radio' for further installtion information.
+Subsection for Radios in "bullseye", satellite radio signal recievers- decoders, blocks, tools, apps. 
