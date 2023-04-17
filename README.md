@@ -2,15 +2,18 @@
 
  **Linux Debian**
      
-          **install python 'pkgs/apps'**
-               ***install 'graphics'***
-                   ****Install 'electronics packages' [vr,2d,3d]****
-                        *****Install 'KDE, GNU, GTK, Apps'*****
+     
+          *install python 'pkgs/apps'*
+            **install 'graphics
+              ***Install 'electronics packages' [vr,2d,3d]
+                ****Install 'KDE, GNU, GTK, Apps'
       
       
  **All using apt**
-****Cameras,Sensors,Routers,Design-Programs,CAD,Servers,Databases,Create,Develop,VR,Graphics,'you imagine it'
-**Easily install many KDE, GNU, and Python applications and packages.**
+ 
+ 
+***Cameras,Sensors,Routers,Design-Programs,CAD,Servers,Databases,Create,Develop,VR,Graphics,
+     'you imagine it'***
 
 
 Operationg-System: 
@@ -23,7 +26,7 @@ Language:
 **In your terminal enter the commands below for installation purpses using 'apt.'
  
  
- ***Prerequistes***
+**Prerequistes**
     use:
       apt-get update
 
