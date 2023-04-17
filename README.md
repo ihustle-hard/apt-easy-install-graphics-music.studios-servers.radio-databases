@@ -5,9 +5,9 @@
      
           *install python apps
                install graphic apps
-                   Install electronics packages [vr,2d,3d]*
+                   Install electronics packages [vr,2d,3d]
                 
-                All using apt*
+                *All using apt*
 
 **Easily install many KDE, GNU, and Python applications and packages.**
 
