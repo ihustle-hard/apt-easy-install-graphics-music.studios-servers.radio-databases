@@ -47,7 +47,9 @@ Type:
  
 
 ### Refer to 'python-packages.apps' for further installtion information. 
-Subsection for Python in "bullseye", packages and apps.
+Subsection for Python in "bullseye", packages and apps. 
+ 
+ https://github.com/ihustle-hard/apt-easy-install-graphics-music.studios-servers.radio-databases/blob/main/python-packages.apps 
 ### Refer to 'KDE.Installs' for further installtion information.
 Subsection for KDE in "bullseye", apps and visuals.
 ### Refer to 'Software.Graphics' for further installtion information.
