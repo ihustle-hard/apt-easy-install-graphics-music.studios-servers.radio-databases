@@ -1,69 +1,84 @@
-### KDE Install Scripts
+##        ## ## ##                                                        ***Subsection***                                                       ##        ## ## ##
+                                                                   Software Packages in "bullseye", 
+                                                  ##        ## ## ##        KDE-INSTALLS        ##        ## ## ##
+                                                              Easy Installs for Several Linux Applications
 
-## This is a list of KDE applications you can install into your termiunx. 
+   Config:
+     OS:
+       Linux Debian Bullseye
+     Type:
+       KDE-INSTALLS
+  
+
+** PRE-REQ'S **
+'update all packages prior to installtion'
+   "use"
+    
+     sudo apt-get update
+     
+     
+* 'ROOT_USER'
+   "use"
+    
+     apt-get install
+
+* 'NONE-ROOT_USER'
+   "use"
+    
+     sudo apt-get install
 
 
-# Operation System: Linux Debian
-# Usage: apt-get
-
-
-## ROOT USER
-**apt-get**
-
-
-## NONE-ROOT USER
-**sudo**
-
-
-USAGE:
-apt-get install apper 
-apt-get install basket 
-apt-get install bibletime 
-apt-get install calligra 
-apt-get install choqok 
-apt-get install debconf-kde 
-apt-get install eqonomize 
-apt-get install filelight 
-apt-get install frameworkintegration 
-apt-get install fraqtive 
-apt-get install icecc-monitor 
-apt-get install k3b 
-apt-get install kamoso 
-apt-get install kanyremote 
-apt-get install kbibtex 
-apt-get install kchmviewer 
-apt-get install kcm-fcitx 
-apt-get install kde-gtk-config 
-apt-get install kdegraphics-mobipocket 
-apt-get install kdegraphics-thumbnailers 
-apt-get install kdeplasma-addons 
-apt-get install kdiff3 
-apt-get install keurocalc 
-apt-get install kgeography 
-apt-get install kid3 
-apt-get install kinit 
-apt-get install kio 
-apt-get install kio-gopher 
-apt-get install kiten 
-apt-get install klettres 
-apt-get install kmymoney 
-apt-get install kolourpaint 
-apt-get install konsole 
-apt-get install kraft 
-apt-get install krename 
-apt-get install kshutdown 
-apt-get install ktouch 
-apt-get install kwalletcli 
-apt-get install kwave 
-apt-get install kwordquiz 
-apt-get install parley 
-apt-get install plasma-framework 
-apt-get install skrooge 
-apt-get install smb4k 
-apt-get install soundkonverter 
-apt-get install subtitlecomposer 
-apt-get install tellico 
-apt-get install vym 
-apt-get install xsettings-kde 
-apt-get install yakuake 
-apt-get install zanshin 
+**** "INSTALTION" ****
+    'use'
+      sudo apt-get update
+        apt-get install apper 
+        apt-get install basket 
+        apt-get install bibletime 
+        apt-get install calligra 
+        apt-get install choqok 
+        apt-get install debconf-kde 
+        apt-get install eqonomize 
+        apt-get install filelight 
+        apt-get install frameworkintegration 
+        apt-get install fraqtive 
+        apt-get install icecc-monitor 
+        apt-get install k3b 
+        apt-get install kamoso 
+        apt-get install kanyremote 
+        apt-get install kbibtex 
+        apt-get install kchmviewer 
+        apt-get install kcm-fcitx 
+        apt-get install kde-gtk-config 
+        apt-get install kdegraphics-mobipocket 
+        apt-get install kdegraphics-thumbnailers 
+        apt-get install kdeplasma-addons 
+        apt-get install kdiff3 
+        apt-get install keurocalc 
+        apt-get install kgeography 
+        apt-get install kid3 
+        apt-get install kinit 
+        apt-get install kio 
+        apt-get install kio-gopher 
+        apt-get install kiten 
+        apt-get install klettres 
+        apt-get install kmymoney 
+        apt-get install kolourpaint 
+        apt-get install konsole 
+        apt-get install kraft 
+        apt-get install krename 
+        apt-get install kshutdown 
+        apt-get install ktouch 
+        apt-get install kwalletcli 
+        apt-get install kwave 
+        apt-get install kwordquiz 
+        apt-get install parley 
+        apt-get install plasma-framework 
+        apt-get install skrooge 
+        apt-get install smb4k 
+        apt-get install soundkonverter 
+        apt-get install subtitlecomposer 
+        apt-get install tellico 
+        apt-get install vym 
+        apt-get install xsettings-kde 
+        apt-get install yakuake 
+        apt-get install zanshin 
