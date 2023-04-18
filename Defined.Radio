@@ -1,148 +1,153 @@
-                     ***Subsection*** 
- **Software Packages in "bullseye", 'Software Defined Radio'**
-                 *easy install using apt*
-           **radio apps and tools installations**
- 	 #OS:
-  	  	Linux Debain
- 	 #Type:
-	     	Radio Apps and Tools
-
-**PRE'Q's**
-update all packages prior to instalation**
-            'apt-get-update'
-
-
-**none-root_user*
-    use:
-      'sudo apt install'
+##        ## ## ##                                                        ***Subsection***                                                       ##        ## ## ##
+                                                                   Software Packages in "bullseye", 
+                                                  ##        ## ## ##        DEFINED.RADIO        ##        ## ## ##
+                                                              Easy Installs for Several Linux Applications
    
-   
-*root_user**
-    use:
-      'apt install'
+   Config:
+     OS:
+       Linux Debian Bullseye
+     Type:
+       DEFINED.RADIO
+
+** PRE-REQ'S **
+'update all packages prior to installtion'
+   "use"
     
-      
-					    ***INSTALATION*** 
+     sudo apt-get update
+     
+     
+* 'ROOT_USER'
+   "use"
+    
+     apt-get install
 
-sudo apt-get update
-      apt-get install ampr-ripd
-      apt-get install antennavis
-      apt-get install aprsdigi
-      apt-get install aprx
-      apt-get install ax25-tools
-      apt-get install ax25-apps
-      apt-get install ax25-xtools
-      apt-get install ax25mail-utils
-      apt-get install comptext
-      apt-get install baycomusb
-      apt-get install chirp 
-      apt-get install canadian-ham-exam
-      apt-get install baycomepp 
-      apt-get install cutesdr 
-      apt-get install comptty 
-      apt-get install cqrlog 
-      apt-get install cubicsdr
-      apt-get install cqrlog-data 
-      apt-get install cwcp 
-      apt-get install cw  
-      apt-get install cqrlog
-      apt-get install cwdaemon 
-      apt-get install dablin 
-      apt-get install dmrconfig 
-      apt-get install direwolf
-      apt-get install dsdcc 
-      apt-get install flmsg
-      apt-get install fldigi
-      apt-get install fccexam 
-      apt-get install flamp
-      apt-get install fbb
-      apt-get install gnss-sdr
-      apt-get install glfer 
-      apt-get install freedv
-      apt-get install flwrap 
-      apt-get install flrig 
-      apt-get install gr-dab 
-      apt-get install gqrx-sdr 
-      apt-get install glfer
-      apt-get install kel-agent 
-      apt-get install freed
-      apt-get install limesuite 
-      apt-get install libhamlib-utils
-      apt-get install klog
-      apt-get install libgnuradio-fcdproplus3.8.0 
-      apt-get install pyqso 
-      apt-get install owx 
-      apt-get install nec2c
-      apt-get install multimon-ng
-      apt-get install multimon
-      apt-get install p10cfgd 
-      apt-get install qtel 
-      apt-get install qsstv
-      apt-get install quisk    
-      apt-get install qtel-icons 
-      apt-get install qtel 
-      apt-get install soapyremote-server
-      apt-get install soapyosmo-common0.7
-      apt-get install rtl-433
-      apt-get install remotetrx 
-      apt-get install soapysdr-module-hackrf
-      apt-get install quisk 
-      apt-get install soapysdr-module-bladerf 
-      apt-get install soapysdr-module-audio
-      apt-get install soapysdr-module-all 
-      apt-get install soapysdr-module-airspy
-      apt-get install soapysdr-module-remote 
-      apt-get install soapysdr-module-redpitaya
-      apt-get install soapysdr-module-osmosdr
-      apt-get install soapysdr-module-mirisdr
-      apt-get install soapysdr-module-lms7
-      apt-get install soapysdr0.7-module-airspy 
-      apt-get install soapysdr-tools
-      apt-get install soapysdr-module-uhd
-      apt-get install soapysdr-module-rtlsdr 
-      apt-get install soapysdr-module-rfspace 
-      apt-get install soapysdr0.7-module-lms7 
-      apt-get install soapysdr0.7-module-hackrf
-      apt-get install soapysdr0.7-module-bladerf
-      apt-get install soapysdr0.7-module-audio
-      apt-get install soapysdr0.7-module-all
-      apt-get install soapysdr0.7-module-rfspace 
-      apt-get install soapysdr0.7-module-remote 
-      apt-get install soapysdr0.7-module-redpitaya 
-      apt-get install soapysdr0.7-module-mirisdr
-      apt-get install soapysdr0.7-module-osmosdr
-      apt-get install splat
-      apt-get install svxlink-calibration-tools
-      apt-get install soundmodem    
-      apt-get install soapysdr0.7-module-uhd     
-      apt-get install soapysdr0.7-module-rtlsdr
-      apt-get install svxlink-server 
-      apt-get install svxlink-calibration-tools
-      apt-get install svxlink-gpio 
-      apt-get install dablin 
-      apt-get install splat  
-      apt-get install tlf
-      apt-get install twpsk 
-      apt-get install tk2
-      apt-get install svxreflector 
-      apt-get install svxlink-gpio
-      apt-get install tmd710-tncsetup 
-      apt-get install trustedqsl 
-      apt-get install tucnak 
-      apt-get install twclock
-      apt-get install wsjtx-data
-      apt-get install wsjtx  
-      apt-get install uronode 
-      apt-get install welle.io 
-      apt-get install uhd-soapysdr
-      apt-get install xastir
-      apt-get install xastir-data 
-      apt-get install wwl 
-      apt-get install xlog-data  
-      apt-get install xdx
-      apt-get install xlog 
-      apt-get install z8530-utils2
-      apt-get install xnec2c 
-      apt-get install xnecview 
-      apt-get install yagiuda
-      apt-get install uhd-soapysdr   
+* 'NONE-ROOT_USER'
+   "use"
+    
+     sudo apt-get install
+
+
+**** "INSTALTION" ****
+    'use'
+                sudo apt-get update
+		      apt-get install ampr-ripd
+		      apt-get install antennavis
+		      apt-get install aprsdigi
+		      apt-get install aprx
+		      apt-get install ax25-tools
+		      apt-get install ax25-apps
+		      apt-get install ax25-xtools
+		      apt-get install ax25mail-utils
+		      apt-get install comptext
+		      apt-get install baycomusb
+		      apt-get install chirp 
+		      apt-get install canadian-ham-exam
+		      apt-get install baycomepp 
+		      apt-get install cutesdr 
+		      apt-get install comptty 
+		      apt-get install cqrlog 
+		      apt-get install cubicsdr
+		      apt-get install cqrlog-data 
+		      apt-get install cwcp 
+		      apt-get install cw  
+		      apt-get install cqrlog
+		      apt-get install cwdaemon 
+		      apt-get install dablin 
+		      apt-get install dmrconfig 
+		      apt-get install direwolf
+		      apt-get install dsdcc 
+		      apt-get install flmsg
+		      apt-get install fldigi
+		      apt-get install fccexam 
+		      apt-get install flamp
+		      apt-get install fbb
+		      apt-get install gnss-sdr
+		      apt-get install glfer 
+		      apt-get install freedv
+		      apt-get install flwrap 
+		      apt-get install flrig 
+		      apt-get install gr-dab 
+		      apt-get install gqrx-sdr 
+		      apt-get install glfer
+		      apt-get install kel-agent 
+		      apt-get install freed
+		      apt-get install limesuite 
+		      apt-get install libhamlib-utils
+		      apt-get install klog
+		      apt-get install libgnuradio-fcdproplus3.8.0 
+		      apt-get install pyqso 
+		      apt-get install owx 
+		      apt-get install nec2c
+		      apt-get install multimon-ng
+		      apt-get install multimon
+		      apt-get install p10cfgd 
+		      apt-get install qtel 
+		      apt-get install qsstv
+		      apt-get install quisk    
+		      apt-get install qtel-icons 
+		      apt-get install qtel 
+		      apt-get install soapyremote-server
+		      apt-get install soapyosmo-common0.7
+		      apt-get install rtl-433
+		      apt-get install remotetrx 
+		      apt-get install soapysdr-module-hackrf
+		      apt-get install quisk 
+		      apt-get install soapysdr-module-bladerf 
+		      apt-get install soapysdr-module-audio
+		      apt-get install soapysdr-module-all 
+		      apt-get install soapysdr-module-airspy
+		      apt-get install soapysdr-module-remote 
+		      apt-get install soapysdr-module-redpitaya
+		      apt-get install soapysdr-module-osmosdr
+		      apt-get install soapysdr-module-mirisdr
+		      apt-get install soapysdr-module-lms7
+		      apt-get install soapysdr0.7-module-airspy 
+		      apt-get install soapysdr-tools
+		      apt-get install soapysdr-module-uhd
+		      apt-get install soapysdr-module-rtlsdr 
+		      apt-get install soapysdr-module-rfspace 
+		      apt-get install soapysdr0.7-module-lms7 
+		      apt-get install soapysdr0.7-module-hackrf
+		      apt-get install soapysdr0.7-module-bladerf
+		      apt-get install soapysdr0.7-module-audio
+		      apt-get install soapysdr0.7-module-all
+		      apt-get install soapysdr0.7-module-rfspace 
+		      apt-get install soapysdr0.7-module-remote 
+		      apt-get install soapysdr0.7-module-redpitaya 
+		      apt-get install soapysdr0.7-module-mirisdr
+		      apt-get install soapysdr0.7-module-osmosdr
+		      apt-get install splat
+		      apt-get install svxlink-calibration-tools
+		      apt-get install soundmodem    
+		      apt-get install soapysdr0.7-module-uhd     
+		      apt-get install soapysdr0.7-module-rtlsdr
+		      apt-get install svxlink-server 
+		      apt-get install svxlink-calibration-tools
+		      apt-get install svxlink-gpio 
+		      apt-get install dablin 
+		      apt-get install splat  
+		      apt-get install tlf
+		      apt-get install twpsk 
+		      apt-get install tk2
+		      apt-get install svxreflector 
+		      apt-get install svxlink-gpio
+		      apt-get install tmd710-tncsetup 
+		      apt-get install trustedqsl 
+		      apt-get install tucnak 
+		      apt-get install twclock
+		      apt-get install wsjtx-data
+		      apt-get install wsjtx  
+		      apt-get install uronode 
+		      apt-get install welle.io 
+		      apt-get install uhd-soapysdr
+		      apt-get install xastir
+		      apt-get install xastir-data 
+		      apt-get install wwl 
+		      apt-get install xlog-data  
+		      apt-get install xdx
+		      apt-get install xlog 
+		      apt-get install z8530-utils2
+		      apt-get install xnec2c 
+		      apt-get install xnecview 
+		      apt-get install yagiuda
+		      apt-get install uhd-soapysdr   
