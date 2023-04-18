@@ -146,6 +146,66 @@
             apt-get install chuck
             apt-get install cheesecutter
             apt-get install cecilia
+            apt-get install cmt 
+            apt-get install clementine
+            apt-get install chuck
+            apt-get install cheesecutter
+            apt-get install cecilia
+            apt-get install codecgraph
+            apt-get install cmus
+            apt-get install cmus-plugin-ffmpeg
+            apt-get install codec2-examples
+            apt-get install codec2
+            apt-get install csound-utils 
+            apt-get install csound-data
+            apt-get install csound
+            apt-get install csladspa
+            apt-get install crip
+            apt-get install darkice 
+            apt-get install daisy-player
+            apt-get install cyclist 
+            apt-get install csoundqt-examples
+            apt-get install csoundqt
+            apt-get install deken
+            apt-get install deepin-voice-recorder
+            apt-get install deepin-music
+            apt-get install darksnow 
+            apt-get install dbmix
+            apt-get install dir2ogg
+            apt-get install din 
+            apt-get install devrplay3 
+            apt-get install denemo-data
+            apt-get install denemo
+            apt-get install drumkv1
+            apt-get install draai
+            apt-get install dradio
+            apt-get install drumgizmo
+            apt-get install easyh10
+            apt-get install dsmidiwifi
+            apt-get install drumstick-tools
+            apt-get install drumkv1-lv2
+            apt-get install drumkv1-common
+            apt-get install drc
+            apt-get install ebumeter
+            apt-get install ecasound 
+            apt-get install ebook-speaker
+            apt-get install easytag-nautilus 
+            apt-get install easytag
+            apt-get install enscribe
+            apt-get install emms
+            apt-get install elektroid 
+            apt-get install eflite
+            apt-get install ecatools
+            apt-get install espeak-ng-data
+            apt-get install espeak-ng
+            apt-get install espeak-data 
+            apt-get install espeak
+            apt-get install eq10q
+            apt-get install eyed3
+            apt-get install ezstream
+            apt-get install exfalso
+            apt-get install exadrums 
+            apt-get install etktab
             
     
     
