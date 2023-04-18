@@ -1,0 +1,153 @@
+##        ## ## ##                                                        ***Subsection***                                                       ##        ## ## ##
+                                                                   Software Packages in "bullseye", 
+                                                    ##        ## ## ##        SOUND STUDIOS        ##        ## ## ##
+                                                           Easy Installs for Several Linux Applications
+
+   Config:
+     OS:
+       Linux Debian Bullseye
+     Type:
+       SOUND STUDIOS 
+
+
+** PRE-REQ'S **
+'update all packages prior to installtion'
+   "use"
+    
+     sudo apt-get update
+     
+     
+* 'ROOT_USER'
+   "use"
+    
+     apt-get install
+
+* 'NONE-ROOT_USER'
+   "use"
+    
+     sudo apt-get install
+
+
+**** "INSTALTION" ****
+    'use'
+    
+       sudo apt-get update
+            apt-get install autotalent
+            apt-get install autoradio
+            apt-get install aumix-gtk
+            apt-get install aumix-common 
+            apt-get install aumix
+            apt-get install audacious 
+            apt-get install aseqjoy
+            apt-get install aubio-tools 
+            apt-get install asmixer
+            apt-get install asunder
+            apt-get install alsaplayer-gtk
+            apt-get install alsaplayer-alsa
+            apt-get install alsaplayer-common
+            apt-get install alsaplayer-daemon 
+            apt-get install alsamixergui
+            apt-get install alsaplayer-xosd 
+            apt-get install alsaplayer-nas
+            apt-get install alsaplayer-oss
+            apt-get install alsaplayer-text
+            apt-get install alsaplayer-jack 
+            apt-get install amsynth
+            apt-get install ambdec 
+            apt-get install ample
+            apt-get install ams 
+            apt-get install amb-plugins 
+            apt-get install arename
+            apt-get install ardour-data
+            apt-get install ardour-lv2-plugins
+            apt-get install ardour-video-timeline
+            apt-get install ardour
+            apt-get install audacious-plugins 
+            apt-get install audacious-plugins-data
+            apt-get install audacity 
+            apt-get install audacity-data 
+            apt-get install audiolink 
+            apt-get install audtty
+            apt-get install audmes
+            apt-get install audiotools
+            apt-get install alsa-utils 
+            apt-get install alsa-tools-gui
+            apt-get install android-libselinux
+            apt-get install a2jmidid
+            apt-get install aac-enc
+            apt-get install abgate
+            apt-get install abcmidi
+            apt-get install aconnectgui
+            apt-get install abx 
+            apt-get install ableton-link-utils
+            apt-get install ableton-link-dev 
+            apt-get install aj-snapshot
+            apt-get install aeolus
+            apt-get install adplay
+            apt-get install adlibtracker2
+            apt-get install aconnectgui
+            apt-get install alsa-utils 
+            apt-get install alsa-firmware-loaders
+            apt-get install apriltag
+            apt-get install android-libsepol
+            apt-get install alsa-oss
+            apt-get install atf-sh
+            apt-get install alsa-tools
+            apt-get install blt
+            apt-get install gensio-bin 
+            apt-get install cmake-extras
+            apt-get install coinor-libcoinmp1v5
+            apt-get install discover-data
+            apt-get install gegl
+            apt-get install erlang-esdl
+            apt-get install erlang-p1-mysql 
+            apt-get install gconf2-common
+            apt-get install gconf2
+            apt-get install gconf-service
+            apt-get install gconf-gsettings-backend 
+            apt-get install gconf-defaults-service
+            apt-get install gcc-10-base
+            apt-get install erlang-p1-yconf
+            apt-get install freenect 
+            apt-get install freeglut3 
+            apt-get install gamemode
+            apt-get install beep 
+            apt-get install bambootracker 
+            apt-get install awesfx
+            apt-get install avldrums.lv2-soundfont
+            apt-get install avldrums.lv2
+            apt-get install bplay 
+            apt-get install beets 
+            apt-get install bitmeter
+            apt-get install blepvco
+            apt-get install blop 
+            apt-get install brutefir
+            apt-get install brp-pacu 
+            apt-get install bristol-data 
+            apt-get install bristol 
+            apt-get install bpm-tools 
+            apt-get install buzztrax
+            apt-get install bs1770gain 
+            apt-get install bs2b-ladspa 
+            apt-get install btag 
+            apt-get install butt 
+            apt-get install cccd 
+            apt-get install calf-plugins
+            apt-get install cantata
+            apt-get install caps
+            apt-get install cava 
+            apt-get install cdtool
+            apt-get install cd-paranoia
+            apt-get install cdcd 
+            apt-get install cd-discid
+            apt-get install cdparanoia
+            apt-get install cmt 
+            apt-get install clementine
+            apt-get install chuck
+            apt-get install cheesecutter
+            apt-get install cecilia
+            
+    
+    
+    
+###### WILL UPDATE WITH MORE COMMANDS ######
