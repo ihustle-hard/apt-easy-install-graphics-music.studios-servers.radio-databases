@@ -1,71 +1,80 @@
-*** Subsection ***
- ## Software Packages in "bullseye", ### sphinx-python*
-    **easy install using apt**  
-    ** python-sphinx pacakges**
+##        ## ## ##                                                        ***Subsection***                                                       ##        ## ## ##
+                                                                   Software Packages in "bullseye", 
+                                                  ##        ## ## ##        SPHINX-PYTHON        ##        ## ## ##
+                                                             Easy Installs for Several Linux Applications
 
-  #OS:
-    Linux Debain
-  #Language:
-     python
+   Config:
+     OS:
+       Linux Debian Bullseye
+     Type:
+       SOUND STUDIOS 
+     Language:
+       Python
 
-**none-root_user**
-    use:
-      sudo apt-get
-   
-**root_user**
-    use:
-      apt-get
+** PRE-REQ'S **
+'update all packages prior to installtion'
+   "use"
     
-**PRE'Q's**
-      use:
-       sudo apt-get update
-      
-      
-**INSTALATION** 
-     use:*
-        apt-get install python3-sphinx
-        apt-get install python3-sphinx-a4doc 
-        apt-get install python3-sphinx-argparse 
-        apt-get install python3-sphinx-astropy 
-        apt-get install python3-sphinx-autoapi 
-        apt-get install python3-sphinx-autobuild 
-        apt-get install python3-sphinx-autodoc-typehints 
-        apt-get install python3-sphinx-automodapi 
-        apt-get install python3-sphinx-autorun 
-        apt-get install python3-sphinx-bootstrap-theme 
-        apt-get install python3-sphinx-celery 
-        apt-get install python3-sphinx-click
-        apt-get install python3-sphinx-copybutton 
-        apt-get install python3-sphinx-feature-classification 
-        apt-get install python3-sphinx-gallery 
-        apt-get install python3-sphinx-issues 
-        apt-get install python3-sphinx-markdown-tables 
-        apt-get install python3-sphinx-paramlinks 
-        apt-get install python3-sphinx-prompt 
-        apt-get install python3-sphinx-rst-builder 
-        apt-get install python3-sphinx-rtd-theme 
-        apt-get install python3-sphinx-tabs 
-        apt-get install python3-sphinx-testing 
-        apt-get install python3-sphinxbase 
-        apt-get install python3-sphinxcontrib 
-        apt-get install python3-sphinxcontrib-log-cabinet 
-        apt-get install python3-sphinxcontrib-pecanwsme
-        apt-get install python3-sphinxcontrib.actdiag
-        apt-get install python3-sphinxcontrib.apidoc
-        apt-get install python3-sphinxcontrib.autoprogram
-        apt-get install python3-sphinxcontrib.bibtex
-        apt-get install python3-sphinxcontrib.blockdiag
-        apt-get install python3-sphinxcontrib.devhelp 
-        apt-get install python3-sphinxcontrib.doxylink
-        apt-get install python3-sphinxcontrib.httpdomain
-        apt-get install python3-sphinxcontrib.nwdiag 
-        apt-get install python3-sphinxcontrib.plantuml 
-        apt-get install python3-sphinxcontrib.programoutput 
-        apt-get install python3-sphinxcontrib.qthelp 
-        apt-get install python3-sphinxcontrib.restbuilder 
-        apt-get install python3-sphinxcontrib.seqdiag 
-        apt-get install python3-sphinxcontrib.serializinghtml 
-        apt-get install python3-sphinxcontrib.spelling 
-        apt-get install python3-sphinxcontrib.svg2pdfconverter 
-        apt-get install python3-sphinxcontrib.websupport
-        apt-get install python3-sphinxtesters 
+     sudo apt-get update
+     
+     
+* 'ROOT_USER'
+   "use"
+    
+     apt-get install
+
+* 'NONE-ROOT_USER'
+   "use"
+    
+     sudo apt-get install
+
+
+**** "INSTALTION" ****
+    'use'
+                sudo apt-get update
+                  apt-get install python3-sphinx
+                  apt-get install python3-sphinx-a4doc 
+                  apt-get install python3-sphinx-argparse 
+                  apt-get install python3-sphinx-astropy 
+                  apt-get install python3-sphinx-autoapi 
+                  apt-get install python3-sphinx-autobuild 
+                  apt-get install python3-sphinx-autodoc-typehints 
+                  apt-get install python3-sphinx-automodapi 
+                  apt-get install python3-sphinx-autorun 
+                  apt-get install python3-sphinx-bootstrap-theme 
+                  apt-get install python3-sphinx-celery 
+                  apt-get install python3-sphinx-click
+                  apt-get install python3-sphinx-copybutton 
+                  apt-get install python3-sphinx-feature-classification 
+                  apt-get install python3-sphinx-gallery 
+                  apt-get install python3-sphinx-issues 
+                  apt-get install python3-sphinx-markdown-tables 
+                  apt-get install python3-sphinx-paramlinks 
+                  apt-get install python3-sphinx-prompt 
+                  apt-get install python3-sphinx-rst-builder 
+                  apt-get install python3-sphinx-rtd-theme 
+                  apt-get install python3-sphinx-tabs 
+                  apt-get install python3-sphinx-testing 
+                  apt-get install python3-sphinxbase 
+                  apt-get install python3-sphinxcontrib 
+                  apt-get install python3-sphinxcontrib-log-cabinet 
+                  apt-get install python3-sphinxcontrib-pecanwsme
+                  apt-get install python3-sphinxcontrib.actdiag
+                  apt-get install python3-sphinxcontrib.apidoc
+                  apt-get install python3-sphinxcontrib.autoprogram
+                  apt-get install python3-sphinxcontrib.bibtex
+                  apt-get install python3-sphinxcontrib.blockdiag
+                  apt-get install python3-sphinxcontrib.devhelp 
+                  apt-get install python3-sphinxcontrib.doxylink
+                  apt-get install python3-sphinxcontrib.httpdomain
+                  apt-get install python3-sphinxcontrib.nwdiag 
+                  apt-get install python3-sphinxcontrib.plantuml 
+                  apt-get install python3-sphinxcontrib.programoutput 
+                  apt-get install python3-sphinxcontrib.qthelp 
+                  apt-get install python3-sphinxcontrib.restbuilder 
+                  apt-get install python3-sphinxcontrib.seqdiag 
+                  apt-get install python3-sphinxcontrib.serializinghtml 
+                  apt-get install python3-sphinxcontrib.spelling 
+                  apt-get install python3-sphinxcontrib.svg2pdfconverter 
+                  apt-get install python3-sphinxcontrib.websupport
+                  apt-get install python3-sphinxtesters 
