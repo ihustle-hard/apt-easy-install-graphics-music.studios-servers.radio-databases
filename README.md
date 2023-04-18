@@ -12,8 +12,8 @@
  *Simple and Easy apt*
  
  
-***Cameras,Sensors,Routers,Radios,TV,Design-Programs,CAD,Servers,Databases,Create,Develop,VR,Graphics,
-     'you imagine it'***
+***Cameras,Sensors,Routers,Radios,TV,Design-Programs,CAD,Servers,Sentinals,Databases,Create,Develop,VR,Graphics,Sound-Studios
+        **'you imagine it'***
 
 
 Operationg-System: 
@@ -60,3 +60,5 @@ Subsection for Electronics in "bullseye", electronics apps, visuals, schemes.
 Subsection in "bullseye", basic installs for your linux terminal.
 ### Refer to 'Defined.Radio' for further installtion information.
 Subsection for Radios in "bullseye", satellite radio signal recievers- decoders, blocks, tools, apps. 
+### Refer to 'Sound.Studio' for further installtion information.
+Subsection in "bullseye", Sound, audio, music, dj tools, design tools, music creators.
