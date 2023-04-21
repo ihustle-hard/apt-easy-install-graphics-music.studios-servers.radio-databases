@@ -424,6 +424,37 @@
             apt-get install mma 
             apt-get install mmllib-tools 
             apt-get install moc 
+            apt-get install moc-ffmpeg-plugin 
+            apt-get install modplug-tools 
+            apt-get install mopidy 
+            apt-get install mopidy-alsamixer 
+            apt-get install mopidy-beets 
+            apt-get install mopidy-dleyna 
+            apt-get install mopidy-internetarchive
+            apt-get install mopidy-local 
+            apt-get install mopidy-mpd 
+            apt-get install mopidy-mpris 
+            apt-get install mopidy-podcast 
+            apt-get install mopidy-podcast-itunes 
+            apt-get install mopidy-scrobbler 
+            apt-get install mopidy-somafm
+            apt-get install mopidy-soundcloud 
+            apt-get install mopidy-tunein 
+            apt-get install mp3blaster 
+            apt-get install mp3burn 
+            apt-get install mp3cd 
+            apt-get install mp3check
+            apt-get install mp3diags 
+            apt-get install mp3gain 
+            apt-get install mp3guessenc 
+            apt-get install mp3info 
+            apt-get install mp3info-gtk 
+            apt-get install mp3rename 
+            apt-get install mp3roaster
+            apt-get install mp3splt 
+            apt-get install mp3splt-gtk 
+            apt-get install mp3val 
+            apt-get install mp3wrap 
     
     
 ###### WILL UPDATE WITH MORE COMMANDS ######
